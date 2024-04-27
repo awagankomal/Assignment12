@@ -1,12 +1,15 @@
 .centre{
     text-align: center;
+    text-decoration: underline;
 }
+
 .page_basic_style{
-   font-family: 'Courier New', Courier, monospace;
+   font-family: 'Times New Roman', Times, serif;
    font-style: normal;
-   font-size: medium;
+   font-size: 20px;
    color: black;
    background-color: #f2c377;
+   
 }
 #back_button{
     margin-left: ;
